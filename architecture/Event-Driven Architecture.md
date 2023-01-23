@@ -5,4 +5,5 @@ here, placing an order is a producer and perticular microservice is a consumer.S
 Event-driven architectures have three key components: event producers, event routers, and event consumers. A producer publishes an event to the router, which filters and pushes the events to consumers. Producer services and consumer services are decoupled, which allows them to be scaled, updated, and deployed independently.
 
 ##  Example architecture : 
-![[Pasted image 20230122223318.png]]
+![](assets/EDR_arc.png)
+
